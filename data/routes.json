@@ -1,0 +1,10 @@
+[
+  { "code": "MDPC", "name": "Punta Cana" },
+  { "code": "LCLK", "name": "Larnaca" },
+  { "code": "LCPH", "name": "Paphos" },
+  { "code": "MDST", "name": "Cibao" },
+  { "code": "EGKK", "name": "London Gatwick" },
+  { "code": "GCLP", "name": "Gran Canaria (Hub)" },
+  { "code": "EFKT", "name": "Kittila" },
+  { "code": "LEMH", "name": "Menorca (Hub)" }
+]
